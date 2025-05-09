@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Belialhun
-This project is part of my toolset for Hungarian game translation, originally developed to support the fan localization of Soul Reaver 2.
-My goal is to provide technically robust, reusable, and user-friendly utilities for handling both text and graphical game assets.
-In addition to these tools, I also created a GUI-based file entropy analyzer, which is useful for inspecting the randomness or compression level of binary files.
+- This project is part of my toolset for Hungarian game translation, originally developed to support the fan localization of Soul Reaver 2.
+- My goal is to provide technically robust, reusable, and user-friendly utilities for handling both text and graphical game assets.
+- In addition to these tools, I also created a GUI-based file entropy analyzer, which is useful for inspecting the randomness or compression level of binary files.
